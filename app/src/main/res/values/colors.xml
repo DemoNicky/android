@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#036BDA</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="brown">#414242</color>
+    <color name="backgrnd">#161616</color>
+    <color name="bbb">#C6121314</color>
+    <color name="cokelat">#6A320A</color>
+    <color name="text_color">#202DDC</color>
+    <color name="cyan">#8000F2F2</color>
+    <color name="red">#C62A2A</color>
+<!--    <color name="cyan">#50C2C9</color>-->
+    <color name="bluedark">#451F6FD1</color>
+    <color name="whitebackground">#B9FFFFFF</color>
+    <color name="whitedark">#85FFFFFF</color>
+    <color name="bcklgin">#1e1d1e</color>
+    <color name="green">#4CFF00</color>
+
+    <color name="colorPrimary">#121212</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorTextWhite">#ffffff</color>
+    <color name="colorWhite">#1D1D1D</color>
+    <color name="colorTextBlack">#ffffff</color>
+    <color name="colorBlack">#ffffff</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorEditText">#3BFFFFFF</color>
+    <color name="colorButton">#BB86FC</color>
+    <color name="colorButtonText">#000000</color>
+    <color name="colorPlaceholder">#F1F1F1</color>
+    <color name="colorTextPrimary">#BB86FC</color>
+</resources>

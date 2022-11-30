@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">restorancepatsaji</string>
+    <string name="welcome">Login</string>
+    <string name="username">Email</string>
+    <string name="password">Password</string>
+    <string name="regis">Create Account?</string>
+    <string name="daftar">SignUp</string>
+    <string name="first">First Name</string>
+    <string name="last">Last Name</string>
+    <string name="email">Email</string>
+    <string name="conf">Confirm Password</string>
+    <string name="reg">Register</string>
+    <string name="sudah">Sign In</string>
+    <string name="sudahtxt">Already have Account? </string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed porta, erat nec ultricies volutpat, mi enim dapibus augue, a consectetur felis nisl ut velit. \n\n Pellentesque iaculis magna in nulla tempus efficitur. Ut dignissim non lacus id condimentum. Pellentesque rutrum finibus lorem, id ultricies velit hendrerit ac. Cras faucibus in diam ut eleifend. Ut aliquam mi erat, ut pulvinar lectus feugiat in. Fusce mollis maximus consectetur. Aliquam iaculis laoreet tortor, id tincidunt risus tincidunt eu. Suspendisse potenti. Nulla facilisi.
+
+Praesent id condimentum mauris. Vivamus gravida velit sit amet tincidunt tristique. Duis congue neque ut dolor hendrerit interdum. Aliquam accumsan et turpis quis mattis. Aenean et nulla vitae metus laoreet volutpat. Curabitur quam eros, fringilla non nunc at, sodales porta lacus. Curabitur ut lacus justo. Proin ultricies nunc quam, ac ornare libero pharetra vitae. Mauris pharetra vulputate feugiat. Aliquam id ligula mauris.\n\n
+
+Quisque sit amet nibh et ante elementum blandit. Nam a eros volutpat, mollis lectus vitae, tincidunt elit. Pellentesque neque dui, dictum a massa id, varius sollicitudin dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam in elit et nisi tempor consectetur. Maecenas tempus varius nisi, in varius nibh. Mauris id nibh in libero ornare commodo quis non libero. Pellentesque eu ex orci.
+
+Praesent condimentum nec urna sed mollis. \n\nSed non orci leo. Praesent felis ipsum, tristique et neque eget, pharetra tincidunt ex. Sed sed consequat quam. Ut id feugiat libero, et tempor nisl. Curabitur fringilla nisl diam, quis efficitur nibh posuere et. Curabitur ultricies accumsan ante. Proin venenatis nisi non lorem dapibus posuere. Nam quis ipsum viverra, rutrum nunc quis, accumsan lectus. Vivamus sit amet enim et massa gravida facilisis. In in porta nibh. Sed cursus ligula facilisis est ultricies, eu imperdiet enim varius.\n\n
+
+Nullam tempus erat ut viverra blandit. Quisque cursus turpis eget nisi dictum tempus. Sed ullamcorper feugiat tellus, ac scelerisque turpis lacinia ac. Vestibulum diam velit, consectetur et vehicula quis, porta at nisi. Quisque sit amet nulla lacinia, scelerisque ligula id, ullamcorper dui. Nullam ipsum nisl, laoreet sed enim quis, sodales dictum massa. Donec vehicula lectus ante, non volutpat tellus semper vitae. Cras tincidunt ex a elit dignissim lacinia. Fusce bibendum auctor justo. Nullam luctus enim eget scelerisque mattis. Integer ut iaculis velit. \n\nPellentesque a nisi porta enim mattis tincidunt. Nullam laoreet purus semper odio auctor sodales. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus imperdiet nibh magna, eget sodales massa tristique nec. Phasellus mollis mi at aliquet ultrices.</string>
+    <string name="user">Username</string>
+</resources>
